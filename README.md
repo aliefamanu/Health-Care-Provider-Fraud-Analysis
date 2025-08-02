@@ -12,6 +12,6 @@ The goal is to develop a machine learning model to detect potential fraudulent p
 
 # Dataset
 For this project, we are working with Inpatient claims, Outpatient claims, and Beneficiary details of each provider:
-A) Inpatient Data: This data provides insights about the claims filed for those patients who are admitted to the hospitals. It also provides additional details like their admission and discharge dates and the admitted diagnosis code.
-B) Outpatient Data: This data provides details about the claims filed for those patients who visit hospitals and are not admitted to them.
-C) Beneficiary Details Data: This data contains beneficiary KYC details like health conditions, the region they belong to, etc.
+- Inpatient Data: This data provides insights about the claims filed for those patients who are admitted to the hospitals. It also provides additional details like their admission and discharge dates and the admitted diagnosis code.
+- Outpatient Data: This data provides details about the claims filed for those patients who visit hospitals and are not admitted to them.
+- Beneficiary Details Data: This data contains beneficiary KYC details like health conditions, the region they belong to, etc.
